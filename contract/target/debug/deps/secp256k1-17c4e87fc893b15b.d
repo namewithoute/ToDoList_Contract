@@ -1,0 +1,10 @@
+c:\Users\LOVE\Desktop\summer-course\learn-tutorial\day01\hello-world\contract\target\debug\deps\secp256k1-17c4e87fc893b15b.rmeta: C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src/lib.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\macros.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\constants.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ecdh.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ffi.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\key.rs
+
+c:\Users\LOVE\Desktop\summer-course\learn-tutorial\day01\hello-world\contract\target\debug\deps\secp256k1-17c4e87fc893b15b.d: C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src/lib.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\macros.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\constants.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ecdh.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ffi.rs C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\key.rs
+
+C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src/lib.rs:
+C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\macros.rs:
+C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\constants.rs:
+C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ecdh.rs:
+C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ffi.rs:
+C:\Users\LOVE\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\key.rs:

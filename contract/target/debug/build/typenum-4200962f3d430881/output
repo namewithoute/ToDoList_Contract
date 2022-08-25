@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\LOVE\Desktop\summer-course\learn-tutorial\day01\hello-world\contract\target\debug\build\typenum-4200962f3d430881\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\LOVE\Desktop\summer-course\learn-tutorial\day01\hello-world\contract\target\debug\build\typenum-4200962f3d430881\out\op.rs
